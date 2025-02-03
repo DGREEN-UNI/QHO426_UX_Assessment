@@ -1,1 +1,1 @@
-# QHO426_UX_Assessment
+# QHO426_ProblemSolving_Assessment
